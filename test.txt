@@ -3,3 +3,5 @@ NOTHING!!!
 new line...
 
 new conflicts new
+
+merge with no ff mode
