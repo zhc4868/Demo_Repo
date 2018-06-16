@@ -2,6 +2,6 @@ NOTHING!!!
 
 new line...
 
-new conflicts new
+new conflicts
 
 merge with no ff mode
